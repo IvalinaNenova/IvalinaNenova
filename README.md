@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvalinaNenova
-- 👀 I’m interested in Web Development, AI, Machine Lerning
+- 👀 I’m interested in Web Development, AI, Machine Leаrning
 - 🌱 I’m currently learning Web Development with C#
 - 📫 How to reach me nenovaivalina@gmail.com
 
