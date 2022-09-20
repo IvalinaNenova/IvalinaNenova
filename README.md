@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IvalinaNenova&theme=ayu-light&sideLabels=DD2727)](https://git.io/streak-stats)
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=&fontSize=90)
