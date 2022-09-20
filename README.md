@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=header&text=Hi%20There!&fontSize=90)
-- 👋 Hi, I’m @IvalinaNenova
-- 👀 I’m interested in Web Development, AI, Machine Leаrning
+- 👋 I’m @IvalinaNenova
+- 👀 I’m a curious person that loves learning something new every day
 - 🌱 I’m currently learning Web Development with C#
 - 📫 How to reach me nenovaivalina@gmail.com
 
